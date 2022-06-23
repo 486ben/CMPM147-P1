@@ -1,4 +1,4 @@
-STAR WAR
+<h1>STAR WAR</h1>
 
 Creator: ZhiBin Huang
 
