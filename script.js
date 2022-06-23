@@ -41,9 +41,11 @@ const fillers = {
 
   Our ally had been attack by the $Bad army now, but somehow we still carry on and continue our $item. Now, we need your help to support our ally! 
 
-  Our ally location is $front$back, a planets outside the galaxy! You will lead an army to help them! You are the only hope for our ally!
+  Our ally location is $front$back, a city on the Jakku planets outside the galaxy! You will lead an army to help them! You are the only hope for our ally!
 
   Now! My best $person. $ready1 and $ready2, $ready2!
+  
+  May The Force Be With You!
   `;
   
   
