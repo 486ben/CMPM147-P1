@@ -1,1 +1,3 @@
-# CMPM147-P1
+# p1-text-generation-starter
+
+Credit: Adam Smith
