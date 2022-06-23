@@ -6,6 +6,8 @@ Hi my friend. Although Galactic Emperor Palpatine and Darth Vader is already dea
 
 <h4>Question: What is the effect you're trying to achieve? Did you achieve that effect?  If not, what was the difficulty/limitation with tools, and what did you end up doing? (This last bit might be more relevant with later, more complex assignments.) </h4>
 
+Because I love the star war movie and I want to create a speech that before the battle of Jakku. (You can also understand as the mission report and a speech). This report can lead the player(reader) to full fill or integration into the moment of battle. I think my mission report achieve that effect and will bring people know more about the star war.
+
 
 Creator: ZhiBin Huang
 Date: 06/23/2022
