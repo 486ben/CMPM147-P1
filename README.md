@@ -1,3 +1,3 @@
-# p1-text-generation-starter
+STAR WAR
 
-Credit: Adam Smith
+Creator: ZhiBin Huang
